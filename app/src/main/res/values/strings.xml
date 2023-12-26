@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Find The Pairs</string>
+    <string name="background_3">Background #3</string>
+    <string name="background_6">Background №6</string>
+    <string name="gameplay">Gameplay</string>
+    <string name="game_logo">Game\nLogo №1</string>
+    <string name="play">PLAY</string>
+    <string name="less_time">! less time, more reward</string>
+    <string name="game_descr">Keep matching up two of the same\n
+        object until there are no more to be\n
+        paired and you clear the board.</string>
+    <string name="fast">fast</string>
+    <string name="congratulation">[CONGRATULATION!]</string>
+    <string name="you_won">[Great! You won!]</string>
+    <string name="double_reward">Double Reward</string>
+
+
+</resources>
